@@ -1,2 +1,2 @@
-server:
-  port: 99
+config: 
+  info: main branch, application-dev.yml config file version 0.0.1
